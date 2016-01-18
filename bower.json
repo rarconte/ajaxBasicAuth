@@ -1,0 +1,25 @@
+{
+  "name": "graph-raphael",
+  "version": "0.1.0",
+  "homepage": "https://github.com/rarconte/graph-raphael",
+  "description": "JavaScript Graph Library",
+  "main": "graph-raphael.js",
+  "keywords": [
+    "raphael",
+    "graph"
+  ],
+  "authors": [
+    "Rodrigo Arriaza"
+  ],
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "raphael": "~2.1.0"
+  },
+  "ignore": [
+    "web/",
+    "README.md",
+    "package.json",
+    ".git"
+  ]
+}
